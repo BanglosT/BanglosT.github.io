@@ -1,0 +1,57 @@
+body{
+font-family: Nexa;
+padding:20px;
+background-color: #2a9d8f;
+}
+
+*{
+box-sizing: border-box;
+}
+
+.left-column{
+float: left;
+width: 75%;	
+}
+
+.right-column{
+ width: 25%;
+ float: right;
+ padding-left:20px;
+}
+
+.card{
+padding: 20px;
+background-color: #e9c46a;
+margin-top: 20px;
+}
+
+.navcard{
+padding: 5px;
+background-color: #f4a261;
+}
+
+.nav{
+position: fixed;
+width: 22%;
+top: 0;
+right: 0;
+}
+
+.source{
+position: absolute;
+width: 300px;
+height: 100px;
+top: 125px;
+color: #092215;
+}
+
+.rel{
+position: relative;
+width: 450px;
+top: 20px;
+padding: 20px;
+background-color: #e9c46a;
+}
+
+
+
